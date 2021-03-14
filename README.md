@@ -1,4 +1,4 @@
-# Hostloc Auto Get Points
+# Hostloc Auto Get Points213123
 使用 GitHub Actions 自动获取 Hostloc 论坛积分12
 
 ## 更新说明
